@@ -2,7 +2,7 @@ import 'dart:html';
 
 import 'package:flutter/material.dart';
 
-class MainScreen  extends StatefulWidget{
+class MainScreen  extends StatelessWidget{
   @override
   _MainScreenState createState() => _MainScreenState();
 }

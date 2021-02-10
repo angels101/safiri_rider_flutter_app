@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404990071728",
+    "project_id": "safiri-flutter-app",
+    "storage_bucket": "safiri-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404990071728:android:bfce99f5855fadef8b3c75",
+        "android_client_info": {
+          "package_name": "com.athurngari.taxiriderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404990071728-pdpd5q3flnkmn42lmclth46kvdctnjh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBhsQ_26HZ4ssr6EeIjTd45AsYR41R_XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404990071728-pdpd5q3flnkmn42lmclth46kvdctnjh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

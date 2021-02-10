@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:taxi_rider_app/all/mainscreen.dart';
-
-import 'All screens/mainscreen.dart';
+import 'package:taxi_rider_app/All screens/mainscreen.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,8 +13,10 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: MainScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
